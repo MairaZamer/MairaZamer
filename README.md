@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MairaZamer, 25 years. I like pilates, reading, being outdoors, playing!
 - 👀 I’m interested in JavaScript, css, HTML, React, Front-end.
-- 🌱 I’m currently learning Front-end, Back-end, Base de datos. JavaScript, css, html, react, node js, sql, sequielize.
+- 🌱 I’m currently learning Front-end, Back-end, Base de datos. JavaScript, css, html, react, node js, sql, sequelize.
 - 📫 How to reach me linkedin.com/in/maira-zamer/
 
 <!---
