@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @MairaZamer, 25 years. I like pilates, reading, being outdoors, playing!
-- 👀 I’m interested in JavaScript, HTML, CSS, React, Redux, Express, Node.js, PostgreSQL, Sequelize.
-- 🌱 I’m currently learning Front-end, Back-end, Base de datos.
-- 📫 How to reach me linkedin.com/in/maira-zamer/
+- 👋 Hola, soy @MairaZamer, 25  años. Me gusta hacer pilates, leer, estudiar, estar al aire libre, jugar!
+- 👀 Estoy interesada en JavaScript, HTML, CSS, React, Redux, Express, Node.js, PostgreSQL, Sequelize.
+- 🌱 Actualmente estoy aprendiendo Front-end, Back-end, Base de datos.
+- 📫Cómo contactarme linkedin.com/in/maira-zamer/
+
+
+
+
 
 <!---
 MairaZamer/MairaZamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
