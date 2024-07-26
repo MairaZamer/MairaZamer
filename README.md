@@ -1,5 +1,3 @@
-https://visualartstudio.com.ve/img/programacion.gif
-
 
 - 👋 Hola, soy @MairaZamer, 25  años. Me gusta hacer pilates, leer, estudiar, estar al aire libre, jugar!
 - 👀 Estoy interesada en JavaScript, HTML, CSS, React, Redux, Express, Node.js, PostgreSQL, Sequelize.
