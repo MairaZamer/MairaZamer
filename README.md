@@ -1,8 +1,11 @@
+![programacion](https://github.com/user-attachments/assets/551d1cd4-56df-40dd-a59b-6dda4c0b3047)
+
 
 - 👋 Hola, soy @MairaZamer, 25  años. Me gusta hacer pilates, leer, estudiar, estar al aire libre, jugar!
 - 👀 Estoy interesada en JavaScript, HTML, CSS, React, Redux, Express, Node.js, PostgreSQL, Sequelize.
 - 🌱 Actualmente estoy aprendiendo Front-end, Back-end, Base de datos.
 - 📫Cómo contactarme linkedin.com/in/maira-zamer/
+
 
 
 
