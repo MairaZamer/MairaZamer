@@ -76,7 +76,7 @@ Si querés colaborar en algún proyecto o simplemente charlar sobre desarrollo, 
 
 - [**Pokemon App**](https://github.com/MairaZamer/PIPokemons) - Proyecto individual que consume la API de Pokemons, mostrando información detallada y permitiendo búsquedas filtradas.
 - [**Ebooks Palace**](https://github.com/MairaZamer/EbooksPalace-Front) - E-commerce de venta de libros digitales, con frontend en React y backend en Node.js.
-- [**Portafolio Personal**](https://github.com/MairaZamer/portafolio) - Mi portafolio personal desarrollado con **Next.js** y **Tailwind CSS**, donde muestro mis proyectos y habilidades.
+- [**Portafolio Personal**]([https://github.com/MairaZamer/Mi-Portafolio]) - Mi portafolio personal desarrollado con **Next.js** y **Tailwind CSS**, donde muestro mis proyectos y habilidades.
 
 ---
 
