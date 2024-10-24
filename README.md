@@ -59,9 +59,6 @@ Como emprendedora con formación en gestión industrial, también me gusta aplic
 
 ## 📊 GitHub Stats:
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MairaZamer&show_icons=true&theme=radical" alt="Maira's GitHub Stats" />
-</p>
-<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MairaZamer&layout=compact&theme=radical" alt="Maira's Most Used Languages" />
 </p>
 
@@ -83,7 +80,8 @@ Si querés colaborar en algún proyecto o simplemente charlar sobre desarrollo, 
 
 ---
 
-"El código limpio es como una poesía bien escrita: eficiente, claro y bello." ✨
+
+
 
 
 
